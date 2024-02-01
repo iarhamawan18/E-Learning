@@ -5,6 +5,10 @@ class ELearningSystem
 {
     public:
     bool authenticateUser()
+    {
+
+
+    }
     void createCourse()
     {
  
