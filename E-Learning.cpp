@@ -9,6 +9,10 @@ class ELearningSystem
 
 
     }
-    void createCourse();
+    void createCourse()
+    {
+ 
+    
+    }
     void enrollStudent();
 };
